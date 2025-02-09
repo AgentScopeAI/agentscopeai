@@ -15,12 +15,15 @@
     <li>Privacy-Focused DEX Solutions</li>
   </ul>
 
-  <h2>AgentScope AI Ecosystem</h2>
+  <h2>AgentScope AI Services</h2>
   <ul style="list-style: none; padding: 0">
-    <li><a href="https://t.me/AgentScopeAI_Bot"><strong>AI Audting Agent</strong></a></li>
+    <li><a href="https://agentscope-ai.io"><strong>Website</strong></a></li>
   </ul>
   <ul style="list-style: none; padding: 0">
-    <li><a href="https://github.com/AgentScopeAI/Audit-Reports"><strong>Public Audit Reports</strong></a></li>
+    <li><a href="https://t.me/AgentScopeAI_Bot"><strong>AI Auditing Agent</strong></a></li>
+  </ul>
+  <ul style="list-style: none; padding: 0">
+    <li><a href="https://create.agentscope-ai.io"><strong>Create Agent</strong></a></li>
   </ul>
   <ul style="list-style: none; padding: 0">
     <li><a href="https://dex.agentscope-ai.io"><strong>Privacy DEX</strong></a></li>
@@ -39,7 +42,6 @@
 
   <h2>Connect</h2>
   <p>
-    <a href="https://agentscope-ai.io">Website</a>
     <a href="https://t.me/AgentScope_AI">Telegram</a>
     <a href="https://x.com/AgentScope_AI">X</a>
     <a href="https://github.com/AgentScopeAI">GitHub</a>
